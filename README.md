@@ -1,2 +1,2 @@
 # Kernel-Pwn
-ctf中的kernel技术
+ctf中的kernel知识点
