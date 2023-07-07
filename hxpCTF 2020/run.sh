@@ -8,5 +8,5 @@ qemu-system-x86_64 \
     -nographic \
     -monitor /dev/null \
     -no-reboot \
-    -append "console=ttyS0  kaslr nofgkaslr kpti=1  quiet panic=1" \
+    -append "console=ttyS0  kaslr kpti=1  quiet panic=1" \
     -s
