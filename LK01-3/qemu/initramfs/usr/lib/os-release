@@ -1,0 +1,5 @@
+NAME=Buildroot
+VERSION=2022.02-349-g1506ff275b
+ID=buildroot
+VERSION_ID=2022.05-git
+PRETTY_NAME="Buildroot 2022.05-git"
