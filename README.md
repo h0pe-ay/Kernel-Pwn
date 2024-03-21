@@ -5,5 +5,5 @@ ret2dir:https://h0pe-ay.github.io/ret2dir/
 FGKASLR:https://h0pe-ay.github.io/Kernel-Pwn-FGKASLR/  
 SMEP-KPTI-SMAP-KASLR:https://h0pe-ay.github.io/kernel-pwn/  
 Kernel-Pwn-HeapOverflow:https://h0pe-ay.github.io/Kernel-Pwn-heapoverflow  
-KernelPwn-AAR&AAW:https://h0pe-ay.github.io/KernelPwn-AAR&AAW/  
+KernelPwn-AAR&AAW:https://h0pe-ay.github.io/KernelPwn-AAR-AAW/
 KernelPwn-UAF:https://h0pe-ay.github.io/Kernel-Pwn-UAF/
